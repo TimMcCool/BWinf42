@@ -1,1 +1,1 @@
-Diese Repository beinhaltet meine Einsendungen für den 42. Bundeswettbewerb Informatik (beide mit 1. Preis bewertet).
+Diese Repository beinhaltet meine Einsendungen für den 42. Bundeswettbewerb Informatik (beide Runden mit 1. Preis bewertet).
